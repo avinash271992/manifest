@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="sync"          fetch="https://github.com/avinash271992?tab=repositories"/>
+  <remote name="sync"          fetch="https://github.com/avinash271992"/>
 
-  <project name="test_repo_sync" path="source" remote="sync" revision="d2e799bc2e1ea6394a4e57a5ffa683f510990190" upstream="main"/>
+  <project name="test_repo_sync" path="source" remote="sync" revision="main" upstream="main"/>
  
 </manifest>
 
