@@ -3,7 +3,7 @@
   <remote name="qt"          fetch="https://code.qt.io/yocto"/>
   <remote name="timesys"     fetch="https://github.com/TimesysGit"/>
 
-  <project name="meta-qt6" path="cos/meta-qt6" remote="qt" revision="4f7d02004cd78f0fca77489deb7487bfb301ea36" upstream="6.4"/>
+  <project name="meta-qt6" path="platform/meta-qt6" remote="qt" revision="4f7d02004cd78f0fca77489deb7487bfb301ea36" upstream="6.4"/>
   <project name="meta-timesys" path="cos/meta-timesys" remote="timesys" revision="33a45eb06bead2509f1bf5bf46a5bbc85d66583b" upstream="langdale"/>
  
 </manifest>
