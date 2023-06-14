@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="sync"          fetch="https://github.com/avinash271992/test_repo_sync.git"/>
+
+  <project name="test_repo_sync" path="platform/meta-qt6" remote="sync" upstream="6.4"/>
+ 
+</manifest>
+
+
