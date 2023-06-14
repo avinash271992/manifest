@@ -2,7 +2,7 @@
 <manifest>
   <remote name="sync"          fetch="https://github.com/avinash271992/test_repo_sync.git"/>
 
-  <project name="test_repo_sync" path="test" remote="sync" revision="main" upstream="main"/>
+  <project name="test" path="source" remote="sync" revision="main" upstream="main"/>
  
 </manifest>
 
