@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote name="sync"          fetch="https://github.com/avinash271992"/>
-
-  <project name="test_repo_sync" path="source" remote="sync" revision="2882bf9163c49b9d30748810fd2b97173f64d09a" upstream="main"/>
- 
-</manifest>
-
-
