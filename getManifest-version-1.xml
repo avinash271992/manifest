@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="sync"          fetch="https://github.com/avinash271992"/>
+
+  <project name="testManifest-version" path="source/testManifest-version" remote="sync" revision="34439a466181115465fad91565971ed5f3d4dc97" upstream="main"/>
+ 
+</manifest>
